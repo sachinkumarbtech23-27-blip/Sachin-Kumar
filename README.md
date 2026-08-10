@@ -1,5 +1,3 @@
-Sachin Kumar
-
 # 💫 About Me:
 Hey I'm Sachin Kumar <br><br>I'm currently working on Data Analytical Skills <br><br>📊 Turning complex data into clear, actionable business insights.<br><br>I am a detail-oriented Data Analyst passionate about uncovering trends, building interactive dashboards, and helping stakeholders make data-driven decisions. Welcome to my GitHub portfolio, where I showcase my projects using Python, SQL, Tableau/Power BI, and Excel.<br><br>🛠️ Tech Stack & Tools<br>* **Languages & Querying:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL, BigQuery), R<br>* **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn<br>* **Databases & Spreadsheets:** Microsoft Excel, Google Sheets, Snowflake<br>* **Version Control & Others:** Git, GitHub, Jupyter Notebook<br><br>📫 Connect With Me<br>* **LinkedIn:**  linkedin.com/in/sachin-kumar-47858b424<br>* **Email:** sachinkumarbtech23-27@liet.in
 
